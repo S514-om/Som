@@ -18,6 +18,8 @@ app.use("/admin", adminRouter);
 
 app.listen(port, ()=>{
     console.log("Server Started..");
+        console.log("The owner is Som..");
+
 });
 
 
